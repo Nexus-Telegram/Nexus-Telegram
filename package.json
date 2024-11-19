@@ -1,0 +1,35 @@
+{
+  "name": "hex-telegram",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "CLI for managing Telegram automation",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@inquirer/input": "^4.0.1",
+    "@opentf/cli-pbar": "^0.7.2",
+    "axios": "^1.7.7",
+    "boxen": "^8.0.1",
+    "chalk": "^5.3.0",
+    "chrome-launcher": "^1.1.2",
+    "cli-clear": "^1.0.4",
+    "form-data": "^4.0.1",
+    "inquirer": "^12.1.0",
+    "leveldown": "^6.1.1",
+    "levelup": "^5.1.1",
+    "ora": "^8.1.1",
+    "sqlite3": "^5.1.7",
+    "systeminformation": "^5.23.5",
+    "telegram": "^2.26.6",
+    "ton-crypto": "^3.2.0",
+    "tonweb": "^0.0.66",
+    "tsx": "^4.19.2",
+    "typeorm": "^0.3.20",
+    "unzipper": "^0.12.3",
+    "windows-shortcuts": "^0.1.6"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
