@@ -53,7 +53,7 @@
 
 - 🔑 **API Key**  
   With the premium version, you’ll receive an API key to:
-    - 🕒 Automatically refresh **query IDs/users** in games like Blum, ensuring uninterrupted bot operations.
+    - 🕒 Automatically refresh **query_ids / user** in games like Blum, ensuring uninterrupted bot operations.
 
 - 📞 **Priority Support**  
   Dedicated support for resolving any issues promptly.
@@ -167,24 +167,27 @@
 
 
 > [!NOTE]
+> - **Account Compatibility**:
+>   - We have tested the program exclusively with accounts purchased from the official [Hstock](https://hstock.org/ru/product/telegram-tdata-i-session-json-bangladesh-a8e93be9) store. During our testing, we encountered minimal session invalidation or account bans. However, please note that we expect the `.txt` and `.zip` formats to match those provided by Hstock. While we can't guarantee compatibility with all purchased Telegram accounts, we suggest you follow these guidelines for optimal performance.
 >
+> 
 > - **Accountability Disclaimer**:
->   - We do not take responsibility for any misuse of this program.<br>
->   - Failing to configure a proxy properly or running the program multiple times unnecessarily can trigger Telegram bot detection. This may result in the invalidation of the purchased tdata session. Please proceed with caution.
+>   - ⚠️ **We are not responsible** for any misuse of this program.
+>   - Improper proxy configuration or running the program multiple times unnecessarily could trigger Telegram’s bot detection mechanisms. This may result in the invalidation of your purchased TData session. **Please use with caution**.
+>
+> 
+> - **TData Compatibility Warning**:
+>   - 🚨 Not all purchased TData sessions are compatible with programmatic connections.
+>   - We recommend testing with a small number of accounts before proceeding with all of them.
+>   - We are not liable for the invalidation of purchased TData sessions due to compatibility issues.
 >
 >
-> - **Tdata Compatibility Warning**:
->  - Not all purchased tdata sessions support programmatic connections.
->  - Test with a few accounts first before proceeding with all of them.
->  - We are not responsible for the invalidation of purchased tdata sessions due to compatibility issues.
->
->
-> - **Trial Version Limitations**:  
-    >   The trial version only allows the use of **3 different tdata sessions**.
+> - **Trial Version Limitations**:
+>   - 🎯 The trial version allows the use of **only 3 different TData sessions**.
 
 ### Any inquire? [Reach us out](https://discord.gg/V87Dgn4hyj)
-### All of our solutions - [Nexus-Telegram Repos](https://github.com/orgs/Nexus-Telegram/repositories)
-
+### All of our solutions: [Nexus - Telegram Repos](https://github.com/orgs/Nexus-Telegram/repositories)
+ 
 <div align="center">
 
 [![1.1]][1]
