@@ -19,7 +19,7 @@
 
 # 🛠️ How to Use It?
 
-## 📑 Processing Bought Telegrams and Creating Chrome Shortcuts
+### 📑 Processing Bought Telegrams and Creating Chrome Shortcuts
 
 1. 🗂️ **Copy** your bought `.txt` files into `./data/accounts`.
 2. 📋 Open the ``Manage Telegram Accounts`` menu.
@@ -30,12 +30,20 @@
 
 ---
 
-## 🎮 Getting the Game Datas
+### 🎮 Getting the Game Datas
 
 1. 🔄 After processing the accounts, go to the **Manage Telegram Games** menu.
 2. 🕹️ Select the ``Update game data for all logged telegrams`` option.
 3. 💾 Click on ``Generate data.txt for all games``.
 4. 📂 Your game data (`query_id` or `user=` or `token`, etc.) will be saved in `./data/game_datas`.
+
+### 🌟 Supported Games
+
+|  **Game**   | **Referral** |
+|:-----------:|:------------:|
+| 🌱 **Seed** |    ✅ Yes     |
+
+
 ---
 
 # 🌟 Features of the Premium Version
