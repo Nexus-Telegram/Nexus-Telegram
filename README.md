@@ -23,9 +23,9 @@
 
 1. 🗂️ **Copy** your bought `.txt` files into `./data/accounts`.
 2. 📋 Open the ``Manage Telegram Accounts`` menu.
-3. ⬇️ Select the ``Download Telegram Accounts`` option.
-4. 🗜️ Choose the ``Unzip Downloaded Files`` option.
-5. 🔑 Click on ``Login and Process Accounts``.
+3. ⬇️ Run the ``Download Telegram Accounts`` option.
+4. 🗜️ Run the ``Unzip Downloaded Files`` option.
+5. 🔑 Run ``Login and Process Accounts``.
 6. ✅ Your chrome shortcuts will be created in `./data/chrome-shortcuts` and pre-logged into each Telegram account.
 
 ---
@@ -33,8 +33,8 @@
 ### 🎮 Getting the Game Datas
 
 1. 🔄 After processing the accounts, go to the **Manage Telegram Games** menu.
-2. 🕹️ Select the ``Update game data for all logged telegrams`` option.
-3. 💾 Click on ``Generate data.txt for all games``.
+2. 🕹️ Run the ``Update game data for all logged telegrams`` option.
+3. 💾 Run the ``Generate data.txt for all games``.
 4. 📂 Your game data (`query_id` or `user=` or `token`, etc.) will be saved in `./data/game_datas`.
 
 ### 🌟 Supported Games
