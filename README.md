@@ -5,8 +5,12 @@
 <p align="center">
    <b>CLI Application for Automating Game Data Fetching</b><br>
    Designed for airdrop farming and creation of Chrome profiles for purchased tdata Telegram accounts.
+   
+![Nexus Telegram](https://cdn.discordapp.com/attachments/993919251775770664/1309302982910808164/primeirovideo-ezgif.com-video-to-gif-converter.gif?ex=674116ec&is=673fc56c&hm=77a65e40d9fb0c978812048660f9f48df41a5e9f633520a00357edb0a688c242&)
 </p>
 <hr>
+
+
 
 # 🚀 Download / How to Install?
 
