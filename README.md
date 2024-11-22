@@ -19,6 +19,8 @@
 3. ▶️ **Run** `hex-telegram.bat`.
 4. 🎉 That's it—you're ready to go!
 
+![Nexus Telegram Installation](https://cdn.discordapp.com/attachments/993919251775770664/1309319875100938240/segundovideo-ezgif.com-optimize.gif?ex=674126a8&is=673fd528&hm=54287f81e4170848fa1f0541bf430a8853756b60759effe9090c838699d95f63&)
+
 ---
 
 # 🛠️ How to Use It?
@@ -32,6 +34,9 @@
 5. 🔑 Run ``Login and Process Accounts``.
 6. ✅ Your chrome shortcuts will be created in `./data/chrome-shortcuts` and pre-logged into each Telegram account.
 
+
+![Account Processing](https://cdn.discordapp.com/attachments/993919251775770664/1309319480588898434/terceirovideo-ezgif.com-optimize_1.gif?ex=6741264a&is=673fd4ca&hm=06c49466d6f407f1778c57e846384e9c3b4f2047d39c9573a9982c9817de1b78&)
+
 ---
 
 ### 🎮 Getting the Game Datas
@@ -40,6 +45,9 @@
 2. 🕹️ Run the ``Update game data for all logged telegrams`` option.
 3. 💾 Run the ``Generate data.txt for all games``.
 4. 📂 Your game data (`query_id` or `user=` or `token`, etc.) will be saved in `./data/game_datas`.
+
+
+![Game Data Fetching](https://cdn.discordapp.com/attachments/993919251775770664/1309317689159843871/ultimovideo-ezgif.com-video-to-gif-converter.gif?ex=6741249f&is=673fd31f&hm=78015f95c826a4d2c67276c533cc6ac6d3f4e1a2f46380bfe242987432319ac9&)
 
 ### 🌟 Supported Games
 
